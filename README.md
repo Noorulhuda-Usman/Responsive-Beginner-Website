@@ -25,3 +25,7 @@ This project is based on a tutorial by [Brian Design]
 - HTML5
 - CSS3
 - JavaScript
+
+## Live Demo  
+You can view the live demo of this project at [Responsive Beginner Website Demo](https://responsive-beginner-site.netlify.app).  
+
